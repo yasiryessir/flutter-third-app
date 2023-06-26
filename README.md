@@ -1,2 +1,3 @@
-# flutter-third-app
-My basic app for learning flutter.
+# third_app
+
+My third flutter app on learning flutter language with projects. I may have made some mistakes, ignore them :)
